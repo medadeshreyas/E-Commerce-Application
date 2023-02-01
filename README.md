@@ -252,7 +252,7 @@ https://dev.mysql.com/downloads/mysql/
 Clone the Repository
 
 ```bash
-https://github.com/TejasMedade/E-Commmerce-Application
+https://github.com/medadeshreyas/E-Commmerce-Application
 ```
 
 Open MySQL Server
@@ -264,8 +264,8 @@ System Generated Admin For Your Database
 
 ```bash
 {
-    "username": "9307710594",
-    "password": "Tejas@1998"
+    "username": "9307090263",
+    "password": "Zeus@2003"
 }
 ```
 
